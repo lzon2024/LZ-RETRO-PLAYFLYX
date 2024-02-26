@@ -1,0 +1,74 @@
+﻿<!-- Theme by pajarorrojo
+https://github.com/pajarorrojo/es-theme-PlayStation-X 
+-->
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables>
+      <menuSelectedColor ifSubset="secondary_colorset:default">111111</menuSelectedColor>
+      <menuSelectorColor ifSubset="secondary_colorset:default">bbbbbb</menuSelectorColor>
+      <menuSelectorColorEnd ifSubset="secondary_colorset:default">aaaaaa</menuSelectorColorEnd>
+      <menuFontcolor>777777</menuFontcolor>
+      <menuSeparatorColor>555555</menuSeparatorColor>
+      <menuGrouptitle>dddddd</menuGrouptitle>
+      <menuGroupSeparator>dddddd</menuGroupSeparator>
+      <menuTitleColor>DFDCDC</menuTitleColor>
+      <menubgColor>232323</menubgColor>
+      <backgroundgrid>aaaaaa</backgroundgrid>
+      <backgroundgridSelect ifSubset="secondary_colorset:default">DF0024</backgroundgridSelect>
+      <menuFooter>555555</menuFooter>
+      <gamelistSelectedColor>3CAEFB</gamelistSelectedColor>
+      <gamelistSelectorColor ifSubset="secondary_colorset:default">DF0024</gamelistSelectorColor>
+      <helpFontColor>DFDCDC</helpFontColor>
+      <helpIconColor>DFDCDC</helpIconColor>
+      <developerColor>00AC97</developerColor>
+      <genreColor>3CAEFB</genreColor>
+      <releaseColor>F3C300</releaseColor>
+      <starFill>DF0024</starFill>
+      <starUnfill>ffffff69</starUnfill>
+      <manualOnColor>3CAEFB</manualOnColor>
+      <savegameOnColor>3CAEFB</savegameOnColor>
+      <cheevosOnColor>F3C300</cheevosOnColor>
+      <splash.progressbarActive ifSubset="secondary_colorset:default">666666</splash.progressbarActive>
+      <splash.progressbarActiveEnd>111111</splash.progressbarActiveEnd>
+      <splash.progressbar>ffffff69</splash.progressbar>
+      <splash.labelColor>ffffff</splash.labelColor>
+      <sistema.lineainferior ifSubset="secondary_colorset:default">DF0024</sistema.lineainferior>
+      <sistema.pie>000000cf</sistema.pie>
+      <gamelist.starFill ifSubset="secondary_colorset:default">DF0024</gamelist.starFill>
+      <classic.tile.background>000000</classic.tile.background>
+      <grid.starFill ifSubset="secondary_colorset:default">F3C300</grid.starFill>
+   </variables>
+
+
+   <view name="system">
+      <image name="background" extra="static">
+         <path>./black/background.jpg</path>
+      </image>
+
+   </view>
+
+
+   <view name=" detailed">
+      <image name="background" extra="static">
+         <path>./black/default-detailed.png</path>
+      </image>
+
+   </view>
+
+
+
+
+
+   <view name="menu">
+      <menuBackground name="menubg">
+         <path>./black/fond_menu.png</path>
+         <fadePath>./black/fond_menu_fade.png</fadePath>
+      </menuBackground>
+
+      <menuTextEdit name="menutextedit">
+         <inactive>./../../_theme_inc/images/caja-texto-negra.png</inactive>
+         <active>./../../_theme_inc/images/caja-texto-negra-activa.png</active>
+      </menuTextEdit>
+   </view>
+
+</theme>

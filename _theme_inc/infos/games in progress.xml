@@ -1,0 +1,21 @@
+<!-- Theme by pajarorrojo
+https://github.com/pajarorrojo/es-theme-PlayStation-X 
+-->
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+
+		<text name="system_description" extra="true">
+			<text>This collection is crafted to ensure quick access to the games you're currently playing or intend to complete in the future.</text>
+			<text lang="es,ca,eu">Esta colección está diseñada para facilitar el acceso rápido a los juegos que estás jugando actualmente o que planeas completar en el futuro.</text>
+		</text>
+
+		<text name="system_name" extra="true">
+			<text>Games in progress</text>
+			<text lang="es">Juegos en curso</text>
+			<text lang="ca">Jocs en curs</text>
+			<text lang="eu">Jokoak kurtsoan</text>
+		</text>
+	</view>
+</theme>

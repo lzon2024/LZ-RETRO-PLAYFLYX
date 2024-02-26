@@ -1,0 +1,16 @@
+
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<text name="system_description" extra="true">
+			
+			<text lang="pt">LZ Games Retro Stories : Shoot 'em up! Shoot 'em up (também conhecido como shmup ou STG[1][2]) é um subgênero de jogos eletrônicos de tiro. Em um shoot 'em up, o personagem do jogador se envolve em um ataque solitário, frequentemente, em uma nave espacial ou aeronaves, disparando em vários de inimigos e evitando seus ataques. Não há consenso sobre quais elementos compõem um shoot 'em up. Alguns restringem a jogos com naves espaciais e certos tipos de movimento do personagem; outros permitem uma definição mais amplacom personagens a pé e uma variedade de perspectivas. Esse subgênero suscita reações rápidas e faz o jogador memorizar o nível e o padrão de ataque dos inimigos. .</text>
+			
+		
+		<text name="system_name" extra="true">
+			<text>Shoot 'em up!</text>
+		</text>
+	</view>
+</theme>
